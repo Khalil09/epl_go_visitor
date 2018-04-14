@@ -1,0 +1,15 @@
+mode: set
+go_visitor/main.go:20.42,22.2 1 0
+go_visitor/main.go:23.35,30.2 5 0
+go_visitor/main.go:32.35,39.2 5 0
+go_visitor/main.go:41.41,48.2 5 0
+go_visitor/main.go:50.28,52.2 1 0
+go_visitor/main.go:66.34,68.2 1 1
+go_visitor/main.go:70.37,72.2 1 0
+go_visitor/main.go:81.32,83.2 1 1
+go_visitor/main.go:85.35,87.2 1 0
+go_visitor/main.go:96.32,98.2 1 1
+go_visitor/main.go:100.35,102.2 1 0
+go_visitor/main.go:111.36,113.2 1 1
+go_visitor/main.go:115.39,117.2 1 0
+go_visitor/main.go:121.12,147.2 17 0
